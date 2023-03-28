@@ -1,0 +1,32 @@
+.{
+margin: 0;
+padding: 0;
+}
+
+body{
+
+}
+.cabecalho {
+    background-color: rgb(0, 255, 242);
+    color: rgb(0, 0, 0);
+    display: block;
+    justify-content: baseline;
+    padding: auto;
+    margin: auto;
+}
+
+#logoalura {
+    width: 20%;
+
+}
+
+.lista-itens {
+    display: inline-block;
+    margin: 0% 16px;
+    padding: 0 16px;
+    font-size: 24px;
+}
+
+#programa {
+    width: auto;
+}
